@@ -6,6 +6,8 @@ Hystrix is a latency and fault tolerance library designed to isolate points of a
 
 ## Full Documentation
 
+build status [![Build Status](https://buildhive.cloudbees.com/job/michaelneale/job/Hystrix/badge/icon)](https://buildhive.cloudbees.com/job/michaelneale/job/Hystrix/)
+
 See the [Wiki](Hystrix/wiki) for full documentation, examples, operational details and other information.
 
 See the [Javadoc](http://netflix.github.com/Hystrix/javadoc) for the API.
